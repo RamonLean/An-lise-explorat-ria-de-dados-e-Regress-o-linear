@@ -1,1 +1,1 @@
-# An-lise-explorat-ria-de-dados-e-Regress-o-linear
+# Análise-exploratória-de-dados-e-Regressão-linear
